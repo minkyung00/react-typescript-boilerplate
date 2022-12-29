@@ -1,0 +1,21 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "React + TypeScript + Webpack boilerplate",
+  "author": "Min Kyung Shin <mksin00@naver.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minkyung00/react-typescript-boilerplate.git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "webpack"
+  ]
+}
