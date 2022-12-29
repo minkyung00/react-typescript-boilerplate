@@ -11,7 +11,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "webpack server -c webpack/webpack.dev.js",
+    "bundle": "webpack bundle -c webpack/webpack.dev.js",
+    "build": "webpack build -c webpack/webpack.prod.js"
   },
   "keywords": [
     "react",
